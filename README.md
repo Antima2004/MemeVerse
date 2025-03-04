@@ -73,6 +73,9 @@ Memeverse is a multi-page, highly interactive website where users can explore, u
 - Start creating, uploading, and interacting with memes.
 
 ## Demo Video
+
+🚀 Live Demo: [Click Here](https://meme-verse-liart.vercel.app/)
+
 To see the application in action, watch the demo video:
 
 ### Option 1: Local Video File
